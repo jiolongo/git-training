@@ -1,1 +1,6 @@
 logs/
+*.orig >> .gitignore
+
+
+
+echo *.orig
